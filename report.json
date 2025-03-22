@@ -1,0 +1,39 @@
+{
+    "Sentiment Distribution": {
+        "Negative": 2,
+        "Neutral": 3,
+        "Positive": 4
+    },
+    "Most Common Topics": [
+        [
+            "Tesla",
+            3
+        ],
+        [
+            "EV",
+            2
+        ],
+        [
+            "Ford",
+            2
+        ],
+        [
+            "Teslas North American Charging Standard",
+            1
+        ],
+        [
+            "NACS",
+            1
+        ]
+    ],
+    "Unique Topics": [
+        "EV",
+        "Teslas North American Charging Standard",
+        "America",
+        "NACS",
+        "Steak",
+        "Ford",
+        "X.",
+        "Tesla"
+    ]
+}
